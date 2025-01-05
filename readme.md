@@ -1,6 +1,10 @@
 # Project Anubis Configuration Documentation
 
-**Project Anubis** is a Discord bot tailored for managing Palworld dedicated servers. To set it up correctly, you need to configure the following parameters in the bot's environment.
+**Project Anubis** is a specialized Discord bot built exclusively for managing and enhancing **Palworld Dedicated Servers**. Its primary goal is to simplify server administration and enrich the player experience by providing seamless automation and integration tools. 
+
+By leveraging the **Palworld Dedicated Server API**, **Project Anubis** offers real-time server management capabilities such as monitoring server status, automating player notifications, managing in-game events, and enabling streamlined communication between server administrators and players. It also utilizes **Discord webhooks** to deliver dynamic updates directly to your Discord server, ensuring your community stays informed and engaged.
+
+Designed with Palworld enthusiasts in mind, **Project Anubis** is the perfect companion for creating a well-organized, active, and enjoyable gaming community. Whether you’re running casual games or competitive events, this bot is your key to hassle-free server operation.
 
 [![Docker Image](https://img.shields.io/docker/pulls/heatclift/anubis)](https://hub.docker.com/r/heatclift/anubis)
 
