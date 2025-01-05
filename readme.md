@@ -96,6 +96,28 @@ To deploy Project Anubis using the official Docker image, follow these steps:
    ```
    If the container is listed, Project Anubis is up and running.
 
+## Available Discord Commands
+
+### 1. **ping**
+- **Description:** Ping the bot to check if it is alive.
+- **Usage:** `/ping`
+
+### 2. **server-start**
+- **Description:** Start the server.
+- **Usage:** `/server-start`
+
+### 3. **whos-playing**
+- **Description:** Check who is currently playing.
+- **Usage:** `/whos-playing`
+
+### 4. **server-status**
+- **Description:** Check the status of the server.
+- **Usage:** `/server-status`
+
+### 5. **save-world**
+- **Description:** Save the current world state.
+- **Usage:** `/save-world`
+
 ## Notes
 - Ensure the **TOKEN** and **PALWORLD_HOST_AUTH** values are kept private and secure.
 - Use a reliable hosting environment for running the bot to ensure uptime and accessibility.
