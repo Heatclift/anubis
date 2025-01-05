@@ -98,7 +98,7 @@ async function saveWolrd() {
                 'Authorization':`Basic ${process.env.PALWORLD_HOST_AUTH}`,// Replace YOUR_ACCESS_TOKEN with the actual token
                 'Host': 'pal.server'
             },
-            timeout: 300000,
+            timeout: 600000,
         });
         console.log('World saved successfully');
         return response.status;
